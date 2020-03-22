@@ -1,0 +1,22 @@
+.mainwindow{
+  font-family: "Helvetica Neue";
+  background-color: white;
+  align-self: center;
+  align-content: center;
+  width: 100vh;
+  height: 100vh;
+  overflow: auto;
+  margin-left: 600px;
+;
+}
+.loginbox{
+  text-align: center;
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+
+.name{
+  font-family: "Helvetica";
+  font-size: 25px
+}
